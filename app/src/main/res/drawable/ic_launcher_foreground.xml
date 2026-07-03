@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 定位标记（IP 定位寓意），居中于安全区内 -->
+    <group android:translateX="0" android:translateY="0">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M54,30 C45.16,30 38,37.16 38,46 C38,58 54,78 54,78 C54,78 70,58 70,46 C70,37.16 62.84,30 54,30 Z M54,52 C50.69,52 48,49.31 48,46 C48,42.69 50.69,40 54,40 C57.31,40 60,42.69 60,46 C60,49.31 57.31,52 54,52 Z" />
+    </group>
+</vector>
